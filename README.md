@@ -1,4 +1,4 @@
-# Portafolio de Ejercicios en Ensamblador
+# Portafolio de Ejercicios en Ensamblador - MM23084 
 
 Este portafolio contiene una serie de ejercicios desarrollados en lenguaje ensamblador. Cada ejercicio implementa una operación aritmética básica utilizando instrucciones de bajo nivel. El propósito de estos ejercicios es reforzar el entendimiento del manejo de registros, operaciones aritméticas y la lógica de programación en ensamblador.
 
@@ -57,6 +57,6 @@ Este portafolio contiene una serie de ejercicios desarrollados en lenguaje ensam
 
 ## Autor
 
-Ricardo Mora  
+Ricardo Antonio Mora Morales - MM23084 
 Estudiante de Ingeniería en Desarrollo de Software  
 Universidad de El Salvador
